@@ -19,24 +19,7 @@
 
   <p align="center">
     <a href="https://github.com/DarkShark-RAz/Companion-App"><strong>Get the apk »</strong></a>
-    <br />
-    Your personal companion to help you assess and track your mental health.
-    <br />
-    <a href="https://youtu.be/wsUOIpjCZ2k">View Demo</a>
-    ·
-    <a href="https://github.com/DarkShark-RAz/Companion-App/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/DarkShark-RAz/Companion-App/issues">Request Feature</a>
-  </p>
 </p>
-
-<div align="center">
-<a href="https://ko-fi.com/C0C05N7QU">
-
-![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)
-
-</a>
-</div>
 
 ## 💡Inspiration
 
