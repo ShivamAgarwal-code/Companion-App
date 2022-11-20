@@ -13,9 +13,7 @@
 <br />
 
 <p align="center">
-<!--   <a href="https://github.com/anubhavbagri"> -->
-    <img src="https://user-images.githubusercontent.com/56643117/174647005-8410fa64-8b36-4e77-af45-7d07a3d2aa99.jpg" alt="Logo">
-<!--   </a> -->
+
 
   <h3 align="center">Companion App</h3>
 
@@ -95,10 +93,3 @@ We have implemented the project by using flutter, firebase majorly. Various APIs
 - An accountability buddy system where each user is paired with a buddy so that they can follow along on each other’s journey, providing support & motivation
 - Make the app available in regional languages
 - Integrate journals blogs and exercises
-
-## 📱 App screenshots
-
-## 🙏 Acknowledgements
-![Mental hacks_slideshow (2)](https://user-images.githubusercontent.com/56643117/174653211-a45b459e-4c00-4735-806e-2a21ff0586ea.png)
-
-## 📃 Licensing
